@@ -27,6 +27,7 @@ The LGE and Cine baseline files were used to set a baseline for a rough accuracy
 **IMPORTANT NOTES FOR RUNNING MODEL**
 
   **1. Google Colab and GPU Resources**
+    
     All code was run on google colab with paid compute units using a T4 with high RAM or L4 with high RAM. To accurately reproduce the results of this github, running the .pynb files on        google colab with an L4 GPU is recommended.
 
     While each section has a .py file along with a .ipynb file, the .py file might not function entirely properly with visualizations due to not being able to utilize the seperate cell         function of google colab.  The .py file is simply an export of the .ipynb file into a .py file form and has not been created with non google colab use in mind.
