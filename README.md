@@ -1,5 +1,5 @@
 # I2R Summer_Internship Code
-A summary of all of Ryan Liu's code for his summer internship at I2R, A*Star. Worked under principal investigator Dr. Yu Yang. Ryan can be reached at ryanliu847@gmail.com for questions.
+A summary of all of Ryan Liu's code for his summer internship at I2R, A*Star. Worked under principal investigator Dr. Yu Yang. Ryan can be reached at ryanliu847@gmail.com for questions. 
 
 
 
