@@ -36,20 +36,20 @@ The LGE and Cine baseline files were used to set a baseline for a rough accuracy
 
   **2. Indice Generation and Folder Organization**
   
-    To run the model, it is recommended to create a folder with all the available code, data, and other files needed.
+  To run the model, it is recommended to create a folder with all the available code, data, and other files needed.
 
-    Within this main folder, it is recommended to create the following subfolders:
-      Indices
-        This folder will be used to store the pickle file with indices for the training and validation sets. The indices are generated in file "indice_generation". The models will load             the pickle file to set the indices for training and validation, so **run file indice_generation first**.
-      Data
-        train_val
-          This will store the data for training and validation
-        test
-          This will store the data for testing
-      Models
-        This will store any model saves
+  Within this main folder, it is recommended to create the following subfolders:
+    Indices
+      This folder will be used to store the pickle file with indices for the training and validation sets. The indices are generated in file "indice_generation". The models will load             the pickle file to set the indices for training and validation, so **run file indice_generation first**.
+    Data
+      train_val
+        This will store the data for training and validation
+      test
+        This will store the data for testing
+    Models
+      This will store any model saves
 
-      Any project code should just be stored in the main folder
+    Any project code should just be stored in the main folder
 
   **3. Model Parameter Tunings**
     
