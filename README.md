@@ -62,5 +62,5 @@ The 30 feature outputs are stacked to create a single tensor of shape 30 x 3 x 2
 
 The final presentation for the research can also be found below. The final presentation contains a summary of certain hyperparameter tunings, overviews of the model approaches, and more. 
 
-
+https://www.canva.com/design/DAGM_lxDlxk/7U6sktyukIvNfcVrU3EICA/edit?utm_content=DAGM_lxDlxk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
